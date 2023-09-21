@@ -1,4 +1,4 @@
-# Video Games Sales Dashboard
+# 🕹 Video Games Sales Dashboard
 ### 📚 Data Set
 - Video game sales from 2015 to 2020 from [Kaggle](https://zenodo.org/record/5898311#.Y9Y2K9JBwUE).
 - Fields include rank, name, platform, year, genre, publisher, Global Sales, EU Sales, JP Sales, NA Sales and Other Sales.
